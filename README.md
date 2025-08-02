@@ -28,9 +28,9 @@ This repository at its core is a party-based singleplayer MMORPG repack for Worl
 
 ## Installation
 
-1. Click the green button "Code" and then click "Download ZIP"
-2. Unzip it with your preferred zip program (WinRAR, 7Zip, ...) or with the integrated Windows ZIP Program
-3. Run "MySQL.bat" wait 2-3 seconds (Make sure you if you have MySQL on your computer to disable it from the computer "Services")
+1. Go to "Releases" then click on "FrostForged-Repack.7z" and download it.
+2. Unzip it with your preferred zip program (WinRAR, 7Zip, ...) or with the integrated Windows ZIP Program.
+3. Run "MySQL.bat" wait 2-3 seconds (Make sure you if you have MySQL on your computer to disable it from the computer "Services").
 4. Run "authserver.exe" wait again 2-3 seconds. The last lines are supposed to be
 
 ```bash
