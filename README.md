@@ -65,5 +65,6 @@ For support, you can reach out to Hex_TV#2545 or join one of the Discord servers
 
 Realms of Azeroth: https://discord.gg/zRw3Qyy8
 - ff-repack-support-ff (channel)
+  
 Hex Tv Community: https://discord.gg/wxgVaz75
 - wow-modding-help (channel)
